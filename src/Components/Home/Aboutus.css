@@ -1,0 +1,61 @@
+.aboutus{
+background-image: url(../../images/body.png);
+width: 1720px;
+height: 700px;
+}
+.texts{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    width: 469px;
+    font-style: normal;
+    size: 50px;
+    color: rgb(1, 16, 61);
+    line-height: 56px;
+  
+}
+
+.fonts{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.mainimg{
+   height: 549.59px;
+    width: 595.68px;
+     margin-top: 150px;
+     margin-left: 50px;
+}
+.section2{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 225px;
+}
+.Lorem{
+    line-height: 28px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    color:rgba(95, 97, 104, 1);
+    font-size:15px ;
+}
+.lines{
+  color: rgba(1, 16, 61, 1);
+  font-family:"Plus Jakarta Sans", sans-serif ;
+ font-weight: 500;
+ font-size: 15px;
+ line-height: 40px;
+
+}
+.colors{
+    color: rgba(104, 101, 255, 1);
+}
+.color{
+        color: rgba(255, 60, 130, 1);
+        
+}
+.cs{
+    color:  rgba(104, 101, 255, 1);
+    background-color:rgba(104, 101, 255, 0.06) ;
+    border-radius: 20px;
+    border: none;
+}

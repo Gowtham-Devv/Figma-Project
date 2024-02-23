@@ -1,0 +1,14 @@
+.logo{
+    margin-left:690px ;
+    margin-top: 20px;
+}
+.logo img{
+    height: 40px;
+}
+.element{
+    position: absolute;
+   right:0;
+    top: -20px;
+    z-index: -1;
+    width: 1400px;
+}
